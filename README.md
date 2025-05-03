@@ -27,7 +27,7 @@ I use this space to explore a variety of systems-focused projects and gain a bet
   <a href="https://www.linkedin.com/in/jared-scott-ransom/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="james.scottran@gmail.com">
+  <a href="mailto:james.scottran@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"/>
   </a>
 </div>
