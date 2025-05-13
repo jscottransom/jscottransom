@@ -22,7 +22,7 @@ My name is Jared Scott-Ransom, welcome to my lab, digital playground, and explor
 </div>
 <br>
 
-💻 My interests lie within the field of Quantum Computing & Low Level Computer Architecture. 
+💻 My technical interests include Quantum Computing, Low Level Computer Architecture and reasoning at the Edge boundary. 
 
 🎨 Outside my professional pursuits, I'm passionate about art, particularly charcoal and oil on canvas.
 
