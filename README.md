@@ -38,7 +38,7 @@ My name is Jared Scott-Ransom, welcome to my lab, digital playground, and explor
 
 <!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/?username=umenzi&langs_count=5&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)]()
  -->
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jscottransom&langs_count=5&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jscottransom&langs_count=6&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)]()
 
 <h2 style="text-align: center;">👨‍💻 Repositories 👨‍💻</h2>
 
