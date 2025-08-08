@@ -48,7 +48,7 @@ My name is Jared Scott-Ransom, welcome to my lab, digital playground, and explor
     <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=jscottransom&repo=walrus&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Walrus"/>
   </a>
   <a href="https://github.com/jscottransom/fringe">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=jscottransom&repo=fringe&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Fringe" />
+    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=jscottransom&repo=fringde&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Fringe" />
   </a>
 </p>
 
